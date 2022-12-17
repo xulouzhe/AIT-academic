@@ -1,0 +1,18 @@
+site_name: AIT (AI Theragnostic Lab)
+site_url: http://lab.chestn.com/
+dev_addr: '0.0.0.0:18000'
+theme:
+  name: material
+  language: zh
+
+nav:
+  - 主页: index.md
+  - 成员: 
+    - 李婷: People/liting.md
+    - 徐楼喆: People/xulouzhe.md
+  - 实验室在研项目: project.md
+  - 主要奖励荣誉: award.md
+
+plugins:
+  - search:
+      separator: '[\s\u200b\-]'
