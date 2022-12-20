@@ -1,6 +1,6 @@
 # **李婷 (Ting Li)**
 
-![照片](http://lab.chestn.com:18000/People/image/liting.png)
+![照片](http://lab.chestn.com/People/image/liting.png)
 
 ### 实验室主任 研究员 博导
 
